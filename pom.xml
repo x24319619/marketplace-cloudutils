@@ -7,7 +7,7 @@
 
     <groupId>com.github.x24319619</groupId>
     <artifactId>marketplace-cloudutils</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>/version>
     <packaging>jar</packaging>
 
     <name>marketplace-cloudutils</name>
